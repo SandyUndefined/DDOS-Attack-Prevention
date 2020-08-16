@@ -1,5 +1,5 @@
 # DDOS-Attack-Prevention
-This tool is going to keep your website *safe from DOS & DDOS attack.
+This tool is going to keep your website ****safe*** from DOS & DDOS attack.
 
 
 # Things to Remember
